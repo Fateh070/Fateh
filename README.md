@@ -1,1 +1,1 @@
-# Fateh
+xmrig
